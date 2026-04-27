@@ -18,7 +18,7 @@ I initiated the original project idea and contributed to the platform developmen
 
 # Recognition
 - 1st Place at the university-level scientific conference
-- Best Graduation Project at the college level
+- Best Graduation Project at the college of Computer and Information Sciences level
 
 # Team
 Developed by a team from the Computer Information Systems Department, College of Computer and Information Sciences, ِAl-Jouf University.
