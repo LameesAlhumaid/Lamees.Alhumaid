@@ -1,2 +1,2 @@
-# SANED | Platform for Hajj and Umrah on behaf of others
-Associate AI Engineer passionate about building real-world AI solutions and intelligent systems, with hands-on experience in building and evaluating AI models, working with LLM-based systems, and contributing to practical AI applications, awarded multiple first-place positions in competitions, demonstrating strong problem-solving and innovation, driven by impact, continuous growth, and building AI systems that solve real problems.
+# SANED | AI-Powered Platform for Proxy Hajj and Umrah
+SANED is an AI-powered digital platform designed to facilitate secure and structured Hajj and Umrah services on behalf of elderly individuals, people unable to perform the rituals themselves, and deceased individuals.
